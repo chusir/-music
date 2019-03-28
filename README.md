@@ -20,13 +20,13 @@
 ### 3.在微信开发者工具中打开该项目 ###
 
 # 播放器截图
-![歌手列表页面](/Volumes/c/GitHub/music/01.jpg);
-![歌手详情页面](/Volumes/c/GitHub/music/02.jpg);
+![](https://github.com/chusir/-music/blob/master/01.jpg);
+![](https://github.com/chusir/-music/blob/master/02.jpg);
 
-![歌手列表页面](/Volumes/c/GitHub/music/03.jpg);
-![歌手详情页面](/Volumes/c/GitHub/music/04.jpg);
+![](https://github.com/chusir/-music/blob/master/03.jpg);
+![](https://github.com/chusir/-music/blob/master/04.jpg);
 
-![播放器首页: 推荐页面](/Volumes/c/GitHub/music/05.jpg);
-![播放器首页: 推荐页面](/Volumes/c/GitHub/music/06.jpg);
+![](https://github.com/chusir/-music/blob/master/05.jpg);
+![](https://github.com/chusir/-music/blob/master/06.jpg);
 
-![播放器首页: 推荐页面](/Volumes/c/GitHub/music/08.jpg)
+![](https://github.com/chusir/-music/blob/master/08.jpg)
